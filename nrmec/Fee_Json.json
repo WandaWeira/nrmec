@@ -1,0 +1,308 @@
+{
+    "nationalElectionType": {
+        "cec": {
+            "Chairman": 5000,
+            "Vice Chairman": 4500,
+            "2nd Vice Chairman": 4000,
+            "Vice Chairman Karamoja Region": 3800,
+            "Vice Chairman Eastern Region": 3700,
+            "Vice Chairman Northern Region": 3650,
+            "Vice Chairman Central Region": 3600,
+            "Vice Chairman Kampala Region": 3550,
+            "Vice Chairman Western Region": 3500
+        },
+        "leagues": {
+            "Elders": 3000,
+            "Youth": 2500,
+            "Women": 2600,
+            "PWDS": 2400,
+            "Veterans": 2800,
+            "Workers": 2700,
+            "Entrepreneurs": 2900,
+            "Historicals": 3100,
+            "Diaspora": 3200,
+            "Institutions": 3300
+        },
+        "presidential": 10000,
+        "sigmps": {
+            "Workers MP": 3500,
+            "PWDS MP": 3400,
+            "YOUTH MP": 3300,
+            "OLDER PERSONS MP": 3250
+        },
+        "eala": 4000,
+        "speakership": 4500,
+        "parliamentaryCaucus": 3700
+    },
+    "districtElectionType": {
+        "partyStructure": {
+            "youth": {
+                "chairman": 2000,
+                "vice chairman": 1800,
+                "secretary finance": 1500,
+                "general secretary": 1700,
+                "secretary publicity": 1600
+            },
+            "women": {
+                "chairman": 2100,
+                "vice chairman": 1900,
+                "secretary finance": 1550,
+                "general secretary": 1750,
+                "secretary publicity": 1650
+            },
+            "pwds": {
+                "chairman": 2200,
+                "vice chairman": 2000,
+                "secretary finance": 1600,
+                "general secretary": 1800,
+                "secretary publicity": 1700
+            },
+            "elders": {
+                "chairman": 2300,
+                "vice chairman": 2100,
+                "secretary finance": 1650,
+                "general secretary": 1850,
+                "secretary publicity": 1750
+            },
+            "mainstream": {
+                "chairman": 2400,
+                "vice chairman": 2200,
+                "secretary finance": 1700,
+                "general secretary": 1900,
+                "secretary publicity": 1800
+            },
+            "veterans": {
+                "chairman": 2500,
+                "vice chairman": 2300,
+                "secretary finance": 1750,
+                "general secretary": 1950,
+                "secretary publicity": 1850
+            }
+        },
+        "lcv": {
+            "chairperson": 3000
+        },
+        "mayor": {
+            "mayor": 3500
+        },
+        "womanMp": {
+            "woman mp": 4000
+        },
+        "DistrictCouncillors": {
+            "direct councillor": 1500,
+            "female councillor": 1400
+        },
+        "DistrictSIGCouncillors": {
+            "youth councillor": 1300,
+            "pwd councillor": 1250,
+            "elder councillor": 1200
+        }
+    },
+    "constituencyMunicipalityElectionType": {
+        "mps": 4500,
+        "partyStructure": {
+            "youth": {
+                "chairman": 2000,
+                "vice chairman": 1800,
+                "secretary finance": 1500,
+                "general secretary": 1700,
+                "secretary publicity": 1600
+            },
+            "women": {
+                "chairman": 2100,
+                "vice chairman": 1900,
+                "secretary finance": 1550,
+                "general secretary": 1750,
+                "secretary publicity": 1650
+            },
+            "pwds": {
+                "chairman": 2200,
+                "vice chairman": 2000,
+                "secretary finance": 1600,
+                "general secretary": 1800,
+                "secretary publicity": 1700
+            },
+            "elders": {
+                "chairman": 2300,
+                "vice chairman": 2100,
+                "secretary finance": 1650,
+                "general secretary": 1850,
+                "secretary publicity": 1750
+            },
+            "mainstream": {
+                "chairman": 2400,
+                "vice chairman": 2200,
+                "secretary finance": 1700,
+                "general secretary": 1900,
+                "secretary publicity": 1800
+            },
+            "veterans": {
+                "chairman": 2500,
+                "vice chairman": 2300,
+                "secretary finance": 1750,
+                "general secretary": 1950,
+                "secretary publicity": 1850
+            }
+        },
+        "municipalityMayor": 5000,
+        "municipalityMp": 4500,
+        "municipalityCouncillors": {
+            "Male Councillor": 1400,
+            "Female Councillor": 1350
+        },
+        "municipalitySIGCouncillors": {
+            "Youth Male": 1200,
+            "Youth Female": 1150,
+            "PWD Male": 1100,
+            "PWD Female": 1050,
+            "Elderly Male": 1300,
+            "Elderly Female": 1250
+        }
+    },
+    "subcountiesDivisionsElectionType": {
+        "partyStructure": {
+            "youth": {
+                "chairman": 1500,
+                "vice chairman": 1300,
+                "secretary finance": 1100,
+                "general secretary": 1200,
+                "secretary publicity": 1150
+            },
+            "women": {
+                "chairman": 1600,
+                "vice chairman": 1400,
+                "secretary finance": 1150,
+                "general secretary": 1250,
+                "secretary publicity": 1200
+            },
+            "pwds": {
+                "chairman": 1700,
+                "vice chairman": 1500,
+                "secretary finance": 1200,
+                "general secretary": 1300,
+                "secretary publicity": 1250
+            },
+            "elders": {
+                "chairman": 1800,
+                "vice chairman": 1600,
+                "secretary finance": 1250,
+                "general secretary": 1350,
+                "secretary publicity": 1300
+            },
+            "mainstream": {
+                "chairman": 1900,
+                "vice chairman": 1700,
+                "secretary finance": 1300,
+                "general secretary": 1400,
+                "secretary publicity": 1350
+            },
+            "veterans": {
+                "chairman": 2000,
+                "vice chairman": 1800,
+                "secretary finance": 1350,
+                "general secretary": 1450,
+                "secretary publicity": 1400
+            }
+        },
+        "lc3": {
+            "chairperson": 3000
+        },
+        "SubcountyCouncillors": {
+            "direct councillor": 1000,
+            "female councillor": 900
+        },
+        "SubcountySIGCouncillors": {
+            "youth councillor": 800,
+            "pwd councillor": 750,
+            "elder councillor": 700
+        }
+    },
+    "parishwardElectionType": {
+        "partyStructure": {
+            "youth": {
+                "chairman": 1000,
+                "vice chairman": 900,
+                "secretary": 800,
+                "treasurer": 850,
+                "publicity": 750
+            },
+            "women": {
+                "chairman": 1100,
+                "vice chairman": 950,
+                "secretary": 850,
+                "treasurer": 870,
+                "publicity": 770
+            },
+            "pwds": {
+                "chairman": 1200,
+                "vice chairman": 1000,
+                "secretary": 900,
+                "treasurer": 880,
+                "publicity": 780
+            },
+            "elders": {
+                "chairman": 1300,
+                "vice chairman": 1100,
+                "secretary": 950,
+                "treasurer": 900,
+                "publicity": 800
+            },
+            "mainstream": {
+                "chairman": 1400,
+                "vice chairman": 1200,
+                "secretary": 1000,
+                "treasurer": 950,
+                "publicity": 850
+            }
+        },
+        "lc2": 2000
+    },
+    "villageCellElectionType": {
+        "partyStructure": {
+            "youth": {
+                "chairman": 1000,
+                "vice chairman": 900,
+                "secretary finance": 850,
+                "general secretary": 800,
+                "secretary publicity": 750
+            },
+            "women": {
+                "chairman": 1100,
+                "vice chairman": 950,
+                "secretary finance": 870,
+                "general secretary": 820,
+                "secretary publicity": 770
+            },
+            "pwds": {
+                "chairman": 1200,
+                "vice chairman": 1000,
+                "secretary finance": 880,
+                "general secretary": 830,
+                "secretary publicity": 780
+            },
+            "elders": {
+                "chairman": 1300,
+                "vice chairman": 1100,
+                "secretary finance": 900,
+                "general secretary": 850,
+                "secretary publicity": 800
+            },
+            "mainstream": {
+                "chairman": 1400,
+                "vice chairman": 1200,
+                "secretary finance": 1000,
+                "general secretary": 950,
+                "secretary publicity": 850
+            },
+            "veterans": {
+                "chairman": 1500,
+                "vice chairman": 1300,
+                "secretary finance": 1050,
+                "general secretary": 970,
+                "secretary publicity": 870
+            }
+        },
+        "lc1": 2000
+    }
+
+}

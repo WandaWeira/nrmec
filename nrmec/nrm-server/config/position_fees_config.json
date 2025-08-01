@@ -1,0 +1,671 @@
+{
+    "INTERNAL_PARTY": {
+        "VILLAGE_CELL": {
+            "YOUTH": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "WOMEN": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "PWDs": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "VETERANS": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "ELDERS": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "MAINSTREAM": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            }
+        },
+        "PARISH_WARD": {
+            "YOUTH": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "WOMEN": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "PWDs": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "VETERANS": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "ELDERS": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "MAINSTREAM": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            }
+        },
+        "SUBCOUNTY_DIVISION": {
+            "YOUTH": {
+                "CHAIRPERSON": 50000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "WOMEN": {
+                "CHAIRPERSON": 50000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "PWDs": {
+                "CHAIRPERSON": 50000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "VETERANS": {
+                "CHAIRPERSON": 50000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "ELDERS": {
+                "CHAIRPERSON": 50000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "MAINSTREAM": {
+                "CHAIRPERSON": 50000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            }
+        },
+        "CONSTITUENCY_MUNICIPALITY": {
+            "YOUTH": {
+                "CHAIRPERSON": 200000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "WOMEN": {
+                "CHAIRPERSON": 200000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "PWDs": {
+                "CHAIRPERSON": 200000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "VETERANS": {
+                "CHAIRPERSON": 200000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "ELDERS": {
+                "CHAIRPERSON": 200000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            },
+            "MAINSTREAM": {
+                "CHAIRPERSON": 200000,
+                "VICE_CHAIRPERSON": 50000,
+                "GENERAL_SECRETARY": 50000,
+                "SECRETARY_FINANCE": 50000,
+                "SECRETARY_PUBLICITY": 50000
+            }
+        },
+        "DISTRICT": {
+            "YOUTH": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "WOMEN": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "PWDs": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "VETERANS": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "ELDERS": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "MAINSTREAM": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "WORKERS": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            },
+            "ENTREPRENEURS": {
+                "CHAIRPERSON": 500000,
+                "VICE_CHAIRPERSON": 100000,
+                "GENERAL_SECRETARY": 100000,
+                "SECRETARY_FINANCE": 100000,
+                "SECRETARY_PUBLICITY": 100000
+            }
+        },
+        "NATIONAL": {
+            "NATIONAL_LEADER": 20000000,
+            "VICE_CHAIRPERSON": 10000000,
+            "SECOND_NATIONAL_VICE_CHAIRPERSON": 10000000,
+            "VICE_CHAIRPERSON_OF_REGIONS": {
+                "EASTERN": 5000000,
+                "NORTHERN": 5000000,
+                "WESTERN": 5000000,
+                "CENTRAL": 5000000,
+                "KAMPALA": 5000000,
+                "KARAMOJA": 5000000
+            },
+            "CHAIRPERSONS_OF_LEAGUES":{
+                "YOUTH": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "PWDs": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "WORKERS": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "ENTREPRENEURS": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "ELDERS": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "WOMEN": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "HISTORICAL": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                },
+                "VETERANS": {
+                    "CHAIRPERSON": 1000000,
+                    "VICE_CHAIRPERSON_REPRESENTING_EACH_REGION": {
+                        "EASTERN": 500000,
+                        "NORTHERN": 500000,
+                        "WESTERN": 500000,
+                        "CENTRAL": 500000,
+                        "KAMPALA": 500000,
+                        "KARAMOJA": 500000
+                    },
+                    "GENERAL_SECRETARY": 500000,
+                    "SECRETARY_FINANCE": 500000,
+                    "SECRETARY_PUBLICITY": 500000
+                }
+            },
+            "NRM_CAUCUS": {
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            }
+                
+        }
+    },
+    "PRIMARIES":{
+        "VILLAGE_CELL": {
+            "LC1": 10000,
+            "SIG_COMMITTEE": {
+                "YOUTH": {
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null,
+                    "SECRETARY_CULTURE_SPORTS": null,
+                    "SECRETARY_STUDENTS_AFFAIRS": null,
+                    "SECRETARY_WOMEN_YOUTH": null,
+                    "SECRETARY_LABOUR_AFFAIRS": null
+                },
+                "ELDERS":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "PWDs":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "WOMEN":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                }
+            }
+        },
+         "PARISH_WARD": {
+            "LC2": 20000,
+            "SIG_COMMITTEE": {
+                "YOUTH": {
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null,
+                    "SECRETARY_CULTURE_SPORTS": null,
+                    "SECRETARY_STUDENTS_AFFAIRS": null,
+                    "SECRETARY_WOMEN_YOUTH": null,
+                    "SECRETARY_LABOUR_AFFAIRS": null
+                },
+                "ELDERS":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "PWDs":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "WOMEN":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                }
+            }
+        },
+         "SUBCOUNTY_DIVISION": {
+            "LC3": 200000,
+            "SIG_COMMITTEE": {
+                "YOUTH": {
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null,
+                    "SECRETARY_CULTURE_SPORTS": null,
+                    "SECRETARY_STUDENTS_AFFAIRS": null,
+                    "SECRETARY_WOMEN_YOUTH": null,
+                    "SECRETARY_LABOUR_AFFAIRS": null
+                },
+                "ELDERS":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "PWDs":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "WOMEN":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                }
+            },
+            "COUNCILLORS": {
+                "SIGS": {
+                    "YOUTH":{
+                        "CHAIRPERSON": null,
+                        "VICE_CHAIRPERSON": null,
+                        "GENERAL_SECRETARY": null,
+                        "SECRETARY_FINANCE": null,
+                        "SECRETARY_PUBLICITY": null
+                    },
+                    "PWDs":{
+                        "CHAIRPERSON": null,
+                        "VICE_CHAIRPERSON": null,
+                        "GENERAL_SECRETARY": null,
+                        "SECRETARY_FINANCE": null,
+                        "SECRETARY_PUBLICITY": null
+                    },
+                    "ELDERS":{
+                        "CHAIRPERSON": null,
+                        "VICE_CHAIRPERSON": null,
+                        "GENERAL_SECRETARY": null,
+                        "SECRETARY_FINANCE": null,
+                        "SECRETARY_PUBLICITY": null
+                    }
+                },
+                "DIRECT_ELECTED_COUNCILLORS": 20000,
+                "FEMALE_COUNCILLORS": 20000
+            },
+            "SUB_COUNTY_TOWN_COUNCIL_CHAIRPERSONS": 200000,
+            "SUB_COUNTY_TOWN_COUNCIL_COUNCILORS": 20000
+        },
+        "CONSTITUENCY_MUNICIPALITY": {
+            "SIG_COMMITTEE": {
+                "YOUTH": {
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null,
+                    "SECRETARY_CULTURE_SPORTS": null,
+                    "SECRETARY_STUDENTS_AFFAIRS": null,
+                    "SECRETARY_WOMEN_YOUTH": null,
+                    "SECRETARY_LABOUR_AFFAIRS": null
+                },
+                "ELDERS":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "PWDs":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "WOMEN":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                }
+            },
+            "COUNCILLORS": {
+                "SIGS": {
+                    "YOUTH":{
+                        "CHAIRPERSON": null,
+                        "VICE_CHAIRPERSON": null,
+                        "GENERAL_SECRETARY": null,
+                        "SECRETARY_FINANCE": null,
+                        "SECRETARY_PUBLICITY": null
+                    },
+                    "PWDs":{
+                        "CHAIRPERSON": null,
+                        "VICE_CHAIRPERSON": null,
+                        "GENERAL_SECRETARY": null,
+                        "SECRETARY_FINANCE": null,
+                        "SECRETARY_PUBLICITY": null
+                    },
+                    "ELDERS":{
+                        "CHAIRPERSON": null,
+                        "VICE_CHAIRPERSON": null,
+                        "GENERAL_SECRETARY": null,
+                        "SECRETARY_FINANCE": null,
+                        "SECRETARY_PUBLICITY": null
+                    }
+                },
+                "DIRECT_ELECTED_COUNCILLORS": 100000,
+                "FEMALE_COUNCILLORS": 100000
+            },
+            "CONSTITUENCY_MP": 3000000,
+            "DIVISION_MP": 3000000,
+            "MUNICIPALITY_MP": 3000000,
+            "DIVISION_MUNICIPAL_MAYOR": 750000,
+            "LORD_MAYOR": 1500000,
+            "CITY_COUNCILORS": 500000,
+            "LORD_COUNCILORS": 1000000,
+            "LCV_CHAIRPERSON": 1000000,
+            "LCV_COUNCILORS": 200000,
+            "CITY_DIVISION_MAYORS": 1000000
+        },
+         "DISTRICT": {
+            "LCV_MAJORS": 1000000,
+            "DISTRICT_WOMAN_MP": 3000000,
+            "UPDF_REPRESENTATIVES":{
+                "CHAIRPERSON": null,
+                "VICE_CHAIRPERSON": null,
+                "GENERAL_SECRETARY": null,
+                "SECRETARY_FINANCE": null,
+                "SECRETARY_PUBLICITY": null
+            },
+            "SIG_COMMITTEE": {
+                "YOUTH": {
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null,
+                    "SECRETARY_CULTURE_SPORTS": null,
+                    "SECRETARY_STUDENTS_AFFAIRS": null,
+                    "SECRETARY_WOMEN_YOUTH": null,
+                    "SECRETARY_LABOUR_AFFAIRS": null
+                },
+                "ELDERS":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "PWDs":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "WOMEN":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                },
+                "WORKERS":{
+                    "CHAIRPERSON": null,
+                    "VICE_CHAIRPERSON": null,
+                    "GENERAL_SECRETARY": null,
+                    "SECRETARY_FINANCE": null,
+                    "SECRETARY_PUBLICITY": null
+                }
+            },
+            "SIGS":{
+                "PWDS":{
+                    "NATIONAL": null,
+                    "WESTERN": null,
+                    "EASTERN": null,
+                    "CENTRAL": null
+                },
+                "YOUTH":{
+                    "NATIONAL": null,
+                    "WESTERN": null,
+                    "EASTERN": null,
+                    "CENTRAL": null
+                },
+                "ELDERS":{
+                    "NATIONAL": null,
+                    "WESTERN": null,
+                    "EASTERN": null,
+                    "CENTRAL": null
+                },
+                "WORKERS":{
+                   "NATIONAL": null,
+                    "WESTERN": null,
+                    "EASTERN": null,
+                    "CENTRAL": null
+                }
+            }
+        },
+        "NATIONAL": {
+            "PRESIDENT": 20000000,
+            "SPEAKERSHIP": 3000000,
+            "EALA": 3000000
+        }
+    }
+}

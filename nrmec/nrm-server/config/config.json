@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "wanda",
+    "database": "seed",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 3306,
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "seed",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 3306,
+    "logging": false
+  },
+  "production": {
+    "username": "nrmeccou_nrm_elections_db_api_user",
+    "password": "5NxWwumUFr57rnwh8mcj",
+    "database": "nrmeccou_nrm_elections_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 3306,
+    "logging": false
+  }
+}
